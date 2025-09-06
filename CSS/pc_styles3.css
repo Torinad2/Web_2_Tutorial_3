@@ -89,7 +89,7 @@ footer {
    color: rgb(186, 186, 156);
    background-color: rgb(71, 52, 29);
    font-size: 0.9em;
-   padding: 10px 0px;
+   padding: 10px 0;
    text-align: center;
 }
 
@@ -114,7 +114,7 @@ div.infobox img {
 div.infobox p {
    color: rgb(239, 220, 156);
    font-size: 1.2em;	
-   margin: 10px 0px;
+   margin: 10px 0;
    text-align: center;
 }
 
